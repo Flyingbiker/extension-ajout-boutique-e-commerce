@@ -1,0 +1,6 @@
+#two_form_flex{
+	display: flex;
+}
+#edittag, #generate_description{
+	max-width: 50%;
+}
